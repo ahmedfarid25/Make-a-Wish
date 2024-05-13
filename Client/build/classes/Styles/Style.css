@@ -1,0 +1,17 @@
+.backgroundedLogin{
+    -fx-background-image: url("../Images/Login.jpg");
+    -fx-background-repeat: no-repeat;
+    -fx-background-size: cover; 
+}
+
+.backgroundedSignUp{
+    -fx-background-image: url("../Images/Sign.png");
+    -fx-background-repeat: no-repeat;
+    -fx-background-size: cover; 
+}
+
+.backgroundedHome{
+    -fx-background-image: url("../Images/Img3.png");
+    -fx-background-repeat: no-repeat;
+    -fx-background-size: cover; 
+}
